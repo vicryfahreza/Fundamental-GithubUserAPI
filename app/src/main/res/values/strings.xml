@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Github User API</string>
+    <string name="search_user">Search Github User</string>
+    <string name="followers">Followers</string>
+    <string name="following">following</string>
+    <string name="username">username</string>
+    <string name="userid">userID</string>
+    <string name="bio">Biography :</string>
+    <string name="website">Website :</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="favorite_menu">favorite Menu</string>
+    <string name="theme_menu">Switch Theme</string>
+    <string name="dark_mode">dark mode</string>
+</resources>
